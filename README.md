@@ -5,6 +5,7 @@
 
 对于阻尼振动的运动方程
 
+
 ![1](http://latex.codecogs.com/svg.latex?\int_a^bf(x)\ dx)
 
 ![2](http://latex.codecogs.com/svg.latex?\begin{cases}a_1=a_{2}\\\\b_{1}=b_{2}\\\\\end{cases})
