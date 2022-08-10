@@ -9,7 +9,7 @@
 
 的任意解：
 
-![2](http://latex.codecogs.com/svg.latex?x=Ae^{-\zeta\omega_{0}t}sin \left\sqrt{1-\zeta^2\omega_{0}t}+\Phi \right +d_{0}})
+![2](http://latex.codecogs.com/svg.latex?x=Ae^{-\zeta\omega_{0}t}sin {(\sqrt{1-\zeta^2\omega_{0}t}+\Phi)}  +d_{0}})
 
 
 
