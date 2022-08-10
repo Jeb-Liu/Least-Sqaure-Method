@@ -3,9 +3,18 @@
 
  - 大量使用matlab符号运算的暴力方法
 
-对于阻尼振动的运动方程![1](http://latex.codecogs.com/svg.latex?x+2\zeta\omega_{0}x+\omega_{o}^2x=0)的任意解：
+对于阻尼振动的运动方程
 
-![2](http://latex.codecogs.com/svg.latex?x=Ae^{-\zeta\omega_{0}t}sin{\sqrt{1-\zeta^2\omega_{0}t+\Phi}+d_{0}})
+![1](http://latex.codecogs.com/svg.latex?x+2\zeta\omega_{0}x+\omega_{o}^2x=0)
+
+的任意解：
+
+![2](http://latex.codecogs.com/svg.latex?x=Ae^{-\zeta\omega_{0}t}sin(\sqrt{1-\zeta^2\omega_{0}t}+\Phi)+d_{0}})
+
+
+
+
+
 
 ![1](http://latex.codecogs.com/svg.latex?\int_a^bf(x)\ dx)
 
